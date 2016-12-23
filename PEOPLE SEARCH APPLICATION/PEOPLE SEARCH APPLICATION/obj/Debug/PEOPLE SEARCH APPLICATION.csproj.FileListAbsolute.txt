@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\PEOPLE SEARCH APPLICATION\PEOPLE SEARCH APPLICATION\bin\Debug\PEOPLE SEARCH APPLICATION.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PEOPLE SEARCH APPLICATION\PEOPLE SEARCH APPLICATION\bin\Debug\searchdb.accdb
+c:\users\pc\documents\visual studio 2015\Projects\PEOPLE SEARCH APPLICATION\PEOPLE SEARCH APPLICATION\bin\Debug\PEOPLE SEARCH APPLICATION.exe
+c:\users\pc\documents\visual studio 2015\Projects\PEOPLE SEARCH APPLICATION\PEOPLE SEARCH APPLICATION\bin\Debug\PEOPLE SEARCH APPLICATION.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PEOPLE SEARCH APPLICATION\PEOPLE SEARCH APPLICATION\obj\Debug\PEOPLE_SEARCH_APPLICATION.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\PEOPLE SEARCH APPLICATION\PEOPLE SEARCH APPLICATION\obj\Debug\PEOPLE_SEARCH_APPLICATION.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\PEOPLE SEARCH APPLICATION\PEOPLE SEARCH APPLICATION\obj\Debug\PEOPLE SEARCH APPLICATION.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\PEOPLE SEARCH APPLICATION\PEOPLE SEARCH APPLICATION\obj\Debug\PEOPLE SEARCH APPLICATION.exe
+c:\users\pc\documents\visual studio 2015\Projects\PEOPLE SEARCH APPLICATION\PEOPLE SEARCH APPLICATION\obj\Debug\PEOPLE SEARCH APPLICATION.pdb
